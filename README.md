@@ -1,2 +1,1 @@
-# githubpages-ex
-example, lol
+Hi this is a readme...?
